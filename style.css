@@ -8,7 +8,7 @@ body {
     font-size: 16px;
     background-image: linear-gradient(#FD5707, #FB5E0C, #FDC82A);
     min-width: 320px;
-    max-width: 700px;
+    max-width: 1400px;
     margin: auto;
 } 
 
@@ -20,7 +20,7 @@ h1 {
 }
 
 nav {
-    padding-top: 5px;
+    padding-top: 15px;
     padding-bottom: 5px;
     margin-left: 5px;
 }
@@ -82,6 +82,8 @@ div#img {
 }
 
 div img {
+    padding-top: 100px;
+    padding-bottom: 100px;
     border-radius: 50%;
 }
 
@@ -89,5 +91,6 @@ footer {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
+    
 }
